@@ -1,0 +1,1771 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"like",
+				"likeLyric"
+			],
+			[
+				"r",
+				"rc\tcustom-react"
+			],
+			[
+				"delete",
+				"deleteSongQuery"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bowe",
+				"bower_components/"
+			],
+			[
+				"ang",
+				"angucomplete-alt"
+			],
+			[
+				"Apollo",
+				"ApolloClient"
+			],
+			[
+				"path",
+				"pathLab"
+			],
+			[
+				"trans",
+				"Transactions"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"blog",
+				"blogPosts"
+			],
+			[
+				"Graph",
+				"GraphQLObjectType"
+			],
+			[
+				"re",
+				"req\treq()js"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"compo",
+				"componentDidMount\t Life Cycle"
+			],
+			[
+				"S",
+				"SurveyList.js"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"classM",
+				"className"
+			],
+			[
+				"redux",
+				"reduxForm"
+			],
+			[
+				"add",
+				"addTest.template.html"
+			],
+			[
+				"na",
+				"navbar.template.html"
+			],
+			[
+				"p",
+				"popper.min.js"
+			],
+			[
+				"e",
+				"mailer.js"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			],
+			[
+				"$",
+				"$valid\tlet"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"img",
+				"imgUrl"
+			],
+			[
+				"merg",
+				"mergeSort"
+			],
+			[
+				"mer",
+				"merge"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac-c",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"in",
+				"input\tfunction"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"flag",
+				"flag"
+			],
+			[
+				"loca",
+				"location\tparam"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"MQ",
+				"MQTT_CLIENT"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"Na",
+				"Nav"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"dev",
+				"deviceAdmin"
+			],
+			[
+				"da",
+				"data_len"
+			],
+			[
+				"device",
+				"deviceID"
+			],
+			[
+				"de",
+				"deviceData"
+			],
+			[
+				"use",
+				"userDevices"
+			],
+			[
+				"ema",
+				"emails"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"mapUtilities.js"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ed",
+				"editIndex"
+			],
+			[
+				"prob",
+				"prob_type\tforstmt"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Eev",
+				"EventInit\tinterface"
+			],
+			[
+				"sta",
+				"startPlace\t(template.html)"
+			],
+			[
+				"pal",
+				"place"
+			],
+			[
+				"ng-in",
+				"ng-init\tAngularJS"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"lgo",
+				"login"
+			],
+			[
+				"cos",
+				"console\t(init.ts)"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"devic",
+				"deviceID\t(deviceRoutes.js)"
+			],
+			[
+				"ng-r",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"ope",
+				"openIde"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"is",
+				"isCorrect"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"ne",
+				"newTab"
+			],
+			[
+				"ques",
+				"quesCode"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"quesLi",
+				"quesLink"
+			],
+			[
+				"que",
+				"quesList"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"q",
+				"quesList\t(network.py)"
+			],
+			[
+				"co",
+				"controller\t(registerCtrl.js)"
+			],
+			[
+				"row",
+				"rows\tAttr"
+			],
+			[
+				"ng-c",
+				"ng-click\tAngularJS"
+			],
+			[
+				"sub",
+				"submitFile"
+			],
+			[
+				"Upload",
+				"Uploaded"
+			],
+			[
+				"btn-",
+				"btn-fill"
+			],
+			[
+				"di",
+				"diff"
+			],
+			[
+				"nex",
+				"nextQuesBtn"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"hide",
+				"hidden-sm"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"as",
+				"absolute\t(autofilename.sublime-settings)"
+			],
+			[
+				"fu",
+				"function\t(addQuestion1.html)"
+			],
+			[
+				"doc",
+				"document\t(addQuestion1.html)"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"val",
+				"value\t(login.html)"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"das",
+				"dashboard\t(welcome.html)"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"content",
+				"content-box"
+			],
+			[
+				"sle",
+				"selected"
+			],
+			[
+				"selec",
+				"selected"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/router/index.js",
+			"settings":
+			{
+				"buffer_size": 461,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/HomeView.vue",
+			"settings":
+			{
+				"buffer_size": 1582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/data.js",
+			"settings":
+			{
+				"buffer_size": 874,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "htm",
+		"selected_items":
+		[
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htl",
+				"Set Syntax: HTML"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pe",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"prv op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"Snippet: re",
+				"Snippet: ES6 Module Export Function"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"space",
+				"Snippet: Wrap in a component"
+			],
+			[
+				"Snippet: ",
+				"Snippet: custom-js"
+			],
+			[
+				"react",
+				"Snippet: React: component skeleton"
+			],
+			[
+				"bala",
+				"Emmet: Balance (outward)"
+			],
+			[
+				"acti",
+				"Material Theme: Activate theme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"appbar",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ina",
+				"Snippet: Wrap in a component"
+			],
+			[
+				"",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"refle",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"file",
+				"File: Copy Path"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"hy",
+				"Hyper Click: Jump To Source File"
+			],
+			[
+				"ty",
+				"TypeScript: Format Document"
+			],
+			[
+				"file:cop",
+				"File: Copy as Tag style"
+			],
+			[
+				"file:c",
+				"File: Copy as Tag script"
+			],
+			[
+				"forma",
+				"TypeScript: Format Document"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"se",
+				"Set Syntax: Sass"
+			],
+			[
+				"Matching Pair",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ope",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 175.0,
+		"history":
+		[
+			"os.sys(\"ls\")",
+			"os.cmd(\"ls\")",
+			"os.path()",
+			"import os ",
+			"os.getcwd()",
+			"import os",
+			"open(\"package.json\")",
+			"os.getcwd()",
+			"subprocess.Popen( ['console'], cwd=\"F:\\git\\Python\\os\\startupDev\")",
+			"subprocess.Popen( ['console'], cwd=\"s\")",
+			"subprocess.Popen( ['console'], cwd=\".\")",
+			"subprocess.Popen( ['console', \"F:/git/equifin/bankomi-frontend\"])",
+			"subprocess.Popen( ['console', \"F:\\git\\equifin\\bankomi-frontend\"])",
+			"subprocess.Popen( ['console', \"F:\\git\\equifin\\bankomi-frontend\\\"])",
+			"subprocess.Popen( ['console', \".\"])",
+			"subprocess.Popen( ['chrome', \"http://localhost:8000/#/app/profile\"])",
+			"subprocess.Popen( ['chrome', http://localhost:8000/#/app/profile])",
+			"import subprocess",
+			"os.getcwd()",
+			"open(\"package.json\")",
+			"import os",
+			"os",
+			"import os",
+			"ls",
+			"911*351564+206718*967",
+			"274229*860 + (274229+2153)*605",
+			"51*11+500",
+			"49*11+490",
+			"49*11+500",
+			"11*25 + 260",
+			"2 + 3",
+			"`Material Theme: Activate theme`",
+			"Material Theme: Activate theme",
+			"jscs",
+			"jscs --preset=airbnb",
+			"sublime.log_input(True)",
+			"subl.log()",
+			"sublime.log()",
+			"view.encoding()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"#!/usr/bin/python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/git/Tutorials/cropchat",
+		"/F/git/Tutorials/cropchat/src",
+		"/F/git/Tutorials/cropchat/src/components"
+	],
+	"file_history":
+	[
+		"/F/git/Tutorials/cropchat/src/components/HomeView.vue",
+		"/F/git/Tutorials/cropchat/src/App.vue",
+		"/F/git/Tutorials/cropchat/src/components/DetailView.vue",
+		"/F/git/Tutorials/cropchat/src/components/PostView.vue",
+		"/F/git/Tutorials/cropchat/.gitignore",
+		"/F/git/Tutorials/cropchat/package.json",
+		"/F/git/Tutorials/cropchat/src/components/Hello.vue",
+		"/F/git/Tutorials/cropchat/static/manifest.json",
+		"/F/git/Tutorials/cropchat/index.html",
+		"/F/git/Tutorials/cropchat/build/build.js",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/F/git/Tutorials/cropchat/static/img/icons/android-chrome-192x192.png",
+		"/F/git/Tutorials/cropchat/config/dev.env.js",
+		"/F/git/Tutorials/cropchat/.eslintignore",
+		"/F/git/Testing/webcommunityukie.github.io/sw-toolbox.js",
+		"/F/git/Testing/webcommunityukie.github.io/index.html",
+		"/F/git/Testing/webcommunityukie.github.io/sw.js",
+		"/F/git/Testing/webcommunityukie.github.io/manifest.json",
+		"/F/git/Testing/webcommunityukie.github.io/README.md",
+		"/F/git/Forks/2048/CONTRIBUTING.md",
+		"/F/git/Tutorials/adv-js/oops/index.html",
+		"/F/git/Forks/2048/js/html_actuator.js",
+		"/F/git/Forks/2048/style/main.css",
+		"/F/git/Forks/2048/style/main.scss",
+		"/F/git/Forks/2048/js/tile.js",
+		"/F/git/Forks/2048/README.md",
+		"/F/git/Forks/2048/Rakefile",
+		"/F/git/Tutorials/react-graphql-tuts/tut-1/package.json",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/queries/fetchSongById.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/package.json",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/package-lock.json",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/.babelrc",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/webpack.config.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/index.html",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/server/models/index.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/server/models/lyric.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/server/models/song.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/server/schema/lyric_type.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/server/schema/root_query_type.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/server/schema/mutations.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/components/LyricList.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/queries/addLyric.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/queries/likeLyric.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/components/LyricCreate.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/components/SongCreate.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/queries/deleteSong.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/index.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/components/SongDetail.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/components/SongList.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/queries/fetchSongs.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/components/App.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/client/queries/addSong.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/app/module.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/app/dashboard/dashboard.module.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/app/common/sidebar/sidebar.template.html",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/css/style.css",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/app/common/sidebar/sidebar.component.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/index.html",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/bower.json",
+		"/F/git/Tutorials/fullStackReactMine/routes/authRoutes.js",
+		"/F/git/Tutorials/fullStackReactMine/routes/billingRoutes.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/public/gulpfile.js",
+		"/F/git/Web/JStack/package.json",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/package.json",
+		"/F/git/Tutorials/fullStackReactMine/services/mailer.js",
+		"/F/git/Professional/targetPlus/targetplus-server/package.json",
+		"/F/git/Tutorials/fullStackReactMine/.env",
+		"/F/git/Web/JStack/public/views/blogs/module.js",
+		"/F/git/Web/JStack/public/views/blogs/viewBlog/viewBlogCtrl.js",
+		"/F/git/Web/JStack/public/views/blogs/listBlog/listBlog.html",
+		"/F/git/Web/JStack/app/blogRoutes.js",
+		"/F/client/components/App.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/node_modules/graphql-tag/index.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-2/index.js",
+		"/F/git/Professional/himanshu/server/.env",
+		"/F/git/Web/JStack/.env.local",
+		"/F/git/Web/JStack/.env",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/routes/pathLab.routes.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/routes/test.routes.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/routes/transaction.routes.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/models/index.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/models/test.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/models/user.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/app.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/models/pathLab.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/models/transaction.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/routes/user.routes.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/routes/index.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/migrations/20170823150348-create-user.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/.sequelizerc",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/routes/user.js",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/config.json",
+		"/F/git/Professional/Artiosys/Ehealth/ehealth/server/models/todo.js",
+		"/F/git/Automation/Kickstart/kickstart.py",
+		"/F/git/Automation/Kickstart/Kickstart.cmd",
+		"/F/git/Tutorials/mongodb-tutorial/test/middleware_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/src/user.js",
+		"/F/git/Tutorials/mongodb-tutorial/src/blogPost.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/association_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/delete_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/src/comment.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/virtual_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/src/post.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/subdocument_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/update_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/create_test.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-1/db.json",
+		"/F/git/Tutorials/react-graphql-tuts/tut-1/config.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-1/package-lock.json",
+		"/F/git/Tutorials/react-graphql-tuts/tut-1/server.js",
+		"/F/git/Tutorials/react-graphql-tuts/tut-1/schema/schema.js",
+		"/F/git/Professional/Artiosys/Ambient_Glow/app.js",
+		"/F/git/Professional/Artiosys/Ambient_Glow/app/mqttRoutes.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/test_helper.js",
+		"/F/git/Tutorials/mongodb-tutorial/test/reading_test.js",
+		"/F/git/Tutorials/mongodb-tutorial/package.json",
+		"/C/Users/hp/AppData/Roaming/Sublime Text 3/Packages/User/custom-model.sublime-snippet",
+		"/F/git/Tutorials/webpack-demo/main.js",
+		"/F/git/Tutorials/webpack-demo/new.scss",
+		"/F/git/Tutorials/webpack-demo/backup-webpack.config.js",
+		"/F/git/Tutorials/webpack-demo/style.scss",
+		"/F/git/Tutorials/webpack-demo/index.html",
+		"/F/git/Tutorials/webpack-demo/package.json",
+		"/F/git/Tutorials/webpack-demo/people.js",
+		"/F/git/Tutorials/webpack-demo/list.js",
+		"/F/git/Tutorials/webpack-demo/main.css",
+		"/F/git/Tutorials/webpack-demo/webpack.config.js",
+		"/F/git/Professional/Artiosys/socialCafe/.env"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"data",
+			"Hello",
+			"255",
+			"tab",
+			"210",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/HomeView.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.autopep8":
+	{
+		"height": 180.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/JSHint/JSHint.sublime-build",
+	"project": "cropchat.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"src\\data.js"
+			],
+			[
+				"test.r",
+				"server\\routes\\test.routes.js"
+			],
+			[
+				"add",
+				"public\\app\\dashboard\\test\\addTest\\addTest.component.js"
+			],
+			[
+				"test.ht",
+				"public\\app\\dashboard\\test\\addTest\\addTest.template.html"
+			],
+			[
+				"inxe",
+				"public\\index.html"
+			],
+			[
+				"use",
+				"src\\user.js"
+			],
+			[
+				"se",
+				"server.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"html",
+				"public\\blank.html"
+			],
+			[
+				"sur",
+				"routes\\surveyRoutes.js"
+			],
+			[
+				"das",
+				"client\\src\\components\\Dashboard.js"
+			],
+			[
+				"c",
+				"config.js"
+			],
+			[
+				"index",
+				"client\\src\\actions\\index.js"
+			],
+			[
+				"bl",
+				"public\\blank.html"
+			],
+			[
+				"app.js",
+				"ehealth-server\\server\\app.js"
+			],
+			[
+				"con",
+				"ehealth-server\\server\\config.json"
+			],
+			[
+				"test",
+				"ehealth-client\\src\\app\\test\\test.component.ts"
+			],
+			[
+				"wiz",
+				"ehealth-client\\src\\app\\forms\\wizard\\wizard.component.ts"
+			],
+			[
+				"regis",
+				"ehealth-client\\src\\app\\pages\\register\\register.component.html"
+			],
+			[
+				"app.mod",
+				"ehealth-client\\src\\app\\app.module.ts"
+			],
+			[
+				"logi",
+				"ehealth-client\\src\\app\\pages\\login\\login.component.ts"
+			],
+			[
+				"log",
+				"ehealth-client\\src\\app\\pages\\login\\login.component.html"
+			],
+			[
+				"documn",
+				"documentation\\tutorial-components.html"
+			],
+			[
+				"ma",
+				"public\\js\\main.js"
+			],
+			[
+				"team",
+				"public\\css\\team.css"
+			],
+			[
+				"te",
+				"public\\team.html"
+			],
+			[
+				"fol",
+				"public\\js\\folding-panel.js"
+			],
+			[
+				"main",
+				"public\\js\\main.js"
+			],
+			[
+				"todoi",
+				"server\\controllers\\todoitems.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"chat",
+				"bankomi-frontend\\app\\views\\partials\\chat.html"
+			],
+			[
+				"chat.js",
+				"bankomi-frontend\\app\\js\\directives\\chat.js"
+			],
+			[
+				"myap",
+				"bankomi-frontend\\app\\js\\myApp.js"
+			],
+			[
+				"live",
+				"bankomi-frontend\\app\\views\\liveMarkets\\liveMarkets.html"
+			],
+			[
+				"mya",
+				"bankomi-frontend\\app\\js\\myApp.js"
+			],
+			[
+				"inex",
+				"bankomi-frontend\\index.html"
+			],
+			[
+				"sub",
+				"bankomi-backend\\Controllers\\SubGroupController.js"
+			],
+			[
+				"subgr",
+				"bankomi-backend\\Services\\SubGroupService.js"
+			],
+			[
+				"server.js",
+				"bankomi-chat\\server.js"
+			],
+			[
+				"my",
+				"bankomi-frontend\\app\\js\\myApp.js"
+			],
+			[
+				"chat.h",
+				"bankomi-frontend\\app\\views\\partials\\chat.html"
+			],
+			[
+				"server",
+				"bankomi-chat\\server.js"
+			],
+			[
+				"post",
+				"bankomi-backend\\Routes\\PostRoute.js"
+			],
+			[
+				"chat.ht",
+				"bankomi-frontend\\app\\views\\partials\\chat.html"
+			],
+			[
+				"copnt",
+				"bankomi-backend\\Controllers\\PostController.js"
+			],
+			[
+				"index.js",
+				"bankomi-backend\\Services\\index.js"
+			],
+			[
+				"item",
+				"bankomi-frontend\\app\\js\\directives\\itemRendered.js"
+			],
+			[
+				"ser",
+				"bankomi-backend\\server.js"
+			],
+			[
+				"myfe",
+				"bankomi-frontend\\app\\views\\home\\myFeed\\myFeed.js"
+			],
+			[
+				"boots",
+				"bankomi-backend\\Utils\\BootStrap.js"
+			],
+			[
+				"",
+				"bankomi-backend\\server.js"
+			],
+			[
+				"config",
+				"bankomi-backend\\Config\\dbConfig.js"
+			],
+			[
+				".git",
+				"bankomi-frontend\\.gitignore"
+			],
+			[
+				"top",
+				"bankomi-frontend\\app\\js\\controllers\\top-navbar.js"
+			],
+			[
+				"myme",
+				"bankomi-frontend\\app\\views\\home\\myFeed\\myFeed.js"
+			],
+			[
+				"hom",
+				"bankomi-frontend\\app\\views\\home\\home.html"
+			],
+			[
+				"side",
+				"bankomi-frontend\\app\\views\\partials\\sidebar.html"
+			],
+			[
+				"home",
+				"bankomi-frontend\\app\\views\\home\\home.html"
+			],
+			[
+				"new",
+				"bankomi-admin\\app\\views\\news.view.html"
+			],
+			[
+				"sideb",
+				"bankomi-frontend\\server\\sidebar-menu.json"
+			],
+			[
+				"sidebar",
+				"bankomi-frontend\\server\\sidebar-menu.json"
+			],
+			[
+				"app.",
+				"bankomi-frontend\\dist\\app.js"
+			],
+			[
+				"myapp",
+				"bankomi-frontend\\app\\js\\myApp.js"
+			],
+			[
+				"starr",
+				"bankomi-frontend\\app\\views\\home\\commCenter\\starredmessages\\starredMessages.html"
+			],
+			[
+				"navba",
+				"bankomi-frontend\\app\\views\\partials\\top-navbar.html"
+			],
+			[
+				".css",
+				"bankomi-frontend\\app\\css\\app.css"
+			],
+			[
+				"app.css",
+				"bankomi-frontend\\app\\css\\app.css"
+			],
+			[
+				"app",
+				"bankomi-admin\\app\\css\\app.css"
+			],
+			[
+				"pos",
+				"bankomi-backend\\Services\\PostService.js"
+			],
+			[
+				"cate",
+				"bankomi-backend\\Services\\CategoryService.js"
+			],
+			[
+				"postr",
+				"bankomi-backend\\Routes\\PostRoute.js"
+			],
+			[
+				"admin",
+				"bankomi-backend\\Controllers\\AdminController.js"
+			],
+			[
+				"category",
+				"bankomi-backend\\Services\\CategoryService.js"
+			],
+			[
+				"myfee",
+				"bankomi-frontend\\app\\views\\home\\myFeed\\myFeed.js"
+			],
+			[
+				"userco",
+				"bankomi-backend\\Controllers\\UserController.js"
+			],
+			[
+				"login",
+				"bankomi-frontend\\app\\views\\login\\login.ctrl.js"
+			],
+			[
+				"myf",
+				"bankomi-frontend\\app\\views\\home\\myFeed\\myFeed.js"
+			],
+			[
+				"custo",
+				"bankomi-admin\\app\\css\\custom-style.css"
+			],
+			[
+				"mymes",
+				"bankomi-frontend\\app\\views\\home\\commCenter\\myMessage\\myMessage.html"
+			],
+			[
+				"sidebar.",
+				"bankomi-admin\\app\\views\\partials\\sidebar.html"
+			],
+			[
+				"gulp",
+				"bankomi-frontend\\gulpFile.js"
+			],
+			[
+				"user",
+				"bankomi-backend\\Routes\\UserRoute.js"
+			],
+			[
+				"mess",
+				"bankomi-backend\\Controllers\\MessageController.js"
+			],
+			[
+				"pack",
+				"bankomi-backend\\package.json"
+			],
+			[
+				"adm",
+				"bankomi-backend\\Routes\\AdminRoute.js"
+			],
+			[
+				"postc",
+				"bankomi-backend\\Controllers\\PostController.js"
+			],
+			[
+				"newpas",
+				"bankomi-frontend\\app\\js\\controllers\\newpassword.ctrl.js"
+			],
+			[
+				"date",
+				"bankomi-frontend\\app\\js\\directives\\datePicker.js"
+			],
+			[
+				"pa",
+				"bankomi-backend\\package.json"
+			],
+			[
+				"pac",
+				"bankomi-frontend\\package.json"
+			],
+			[
+				"admr",
+				"bankomi-backend\\Routes\\AdminRoute.js"
+			],
+			[
+				"admi",
+				"bankomi-backend\\Models\\Admins.js"
+			],
+			[
+				"preloa",
+				"bankomi-frontend\\app\\js\\directives\\preloader.js"
+			],
+			[
+				"cus",
+				"bankomi-frontend\\app\\css\\custom.css"
+			],
+			[
+				"main.",
+				"bankomi-frontend\\app\\css\\main.css"
+			],
+			[
+				"custom",
+				"bankomi-frontend\\app\\css\\custom.css"
+			],
+			[
+				"app.c",
+				"bankomi-frontend\\app\\css\\app.css"
+			],
+			[
+				"mym",
+				"bankomi-frontend\\app\\views\\comm-center-views\\myMessage\\myMessage.js"
+			],
+			[
+				"rende",
+				"bankomi-frontend\\app\\js\\directives\\itemRendered.js"
+			],
+			[
+				"mymess",
+				"bankomi-frontend\\app\\views\\comm-center-views\\myMessage\\myMessage.html"
+			],
+			[
+				"prel",
+				"bankomi-frontend\\app\\js\\directives\\preloader.js"
+			],
+			[
+				"posr",
+				"bankomi-backend\\Routes\\PostRoute.js"
+			],
+			[
+				"post.v",
+				"bankomi-admin\\app\\views\\post.view.html"
+			],
+			[
+				"pro",
+				"bankomi-frontend\\app\\views\\profile.html"
+			],
+			[
+				"pre",
+				"bankomi-frontend\\app\\js\\directives\\preloader.js"
+			],
+			[
+				"yr",
+				"app\\js\\directives\\yearPicker.js"
+			],
+			[
+				"pr",
+				"app\\js\\controllers\\profileController.js"
+			],
+			[
+				"profi",
+				"bankomi-frontend\\app\\js\\controllers\\profileController.js"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"fac",
+				"public\\views\\auth\\authFactory.js"
+			],
+			[
+				"factory",
+				"public\\views\\device\\factory.js"
+			],
+			[
+				"bla",
+				"public\\views\\partials\\blank.html"
+			],
+			[
+				"blank",
+				"public\\template\\blank.html"
+			],
+			[
+				"mani",
+				"public\\assets\\css\\main.css"
+			],
+			[
+				"jque",
+				"node_modules\\jquery\\dist\\jquery.min.js"
+			],
+			[
+				"bootmi",
+				"node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
+			],
+			[
+				"boots.min",
+				"node_modules\\bootstrap\\dist\\js\\bootstrap.min.js"
+			],
+			[
+				"sty",
+				"public\\assets\\css\\style.css"
+			],
+			[
+				"homhtml",
+				"public\\views\\home\\template.html"
+			],
+			[
+				"style.css",
+				"public\\assets\\css\\style.css"
+			],
+			[
+				"indh",
+				"public\\views\\index.html"
+			],
+			[
+				"indexh",
+				"public\\views\\index.html"
+			],
+			[
+				"mod",
+				"public\\views\\module.js"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"mapr",
+				"app\\mapRoutes.js"
+			],
+			[
+				"device",
+				"public\\views\\device\\ctrl.js"
+			],
+			[
+				"ctrl",
+				"public\\views\\map\\ctrl.js"
+			],
+			[
+				"db.js",
+				"config\\db.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\git\\Professional\\equifin\\equifin_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
