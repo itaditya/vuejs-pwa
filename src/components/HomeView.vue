@@ -3,9 +3,9 @@
     <div class="mdl-grid">
       <div class="mdl-cell mdl-cell--3-col mdl-cell mdl-cell--1-col-tablet mdl-cell--hide-phone"></div>
       <div class="mdl-cell mdl-cell--6-col mdl-cell--4-col-phone">
-        <div v-for="picture in this.pictures" class="image-card" @click="displayDetails(picture.id)">
+        <div v-for="picture in getCats()" class="image-card" @click.prevent="displayDetails(picture['.key'])">
           <div class="image-card__picture">
-            <img :src="picture.url"/>
+            <img :src="picture.url" />
           </div>
           <div class="image-card__comment mdl-card__actions">
             <span>{{ picture.comment }}</span>
@@ -19,7 +19,6 @@
   </div>
 </template>
 <script>
-  import data from '../data'
   export default {
     methods: {
       displayDetails (id) {
@@ -27,11 +26,18 @@
           name: 'detail',
           params: { id }
         })
-      }
-    },
-    data () {
-      return {
-        'pictures': data.pictures
+      },
+      getCats () {
+        if (navigator.onLine) {
+          this.saveCatsToCache()
+          return this.$root.cat
+        }
+        return JSON.parse(localStorage.getItem('cats'))
+      },
+      saveCatsToCache () {
+        this.$root.$firebaseRefs.cat.once('value', snapshot => {
+          localStorage.setItem('cats', JSON.stringify(snapshot.val()))
+        })
       }
     }
   }

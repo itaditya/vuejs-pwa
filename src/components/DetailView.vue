@@ -2,15 +2,15 @@
   <div class="mdl-grid">
     <div class="mdl-cell mdl-cell--8-col">
       <div class="picture">
-        <img :src="this.pictures[$route.params.id].url" />
+        <img :src="this.cat.url" />
       </div>
       <div class="info">
-        <span>{{ this.pictures[$route.params.id].info }}</span>
+        <span>{{ this.cat.info }}</span>
       </div>
     </div>
     <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
       <div class="comment">
-        <span>{{ this.pictures[$route.params.id].comment }}</span>
+        <span>{{ this.cat.comment }}</span>
       </div>
       <div class="actions">
         <router-link class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" to="/post">
@@ -21,11 +21,23 @@
   </div>
 </template>
 <script>
-import data from '../data'
 export default {
+  mounted () {
+  },
+  methods: {
+    getCat () {
+      console.log('a')
+      if (navigator.onLine) {
+        console.log('b')
+        return this.$root.cat.find(cat => cat['.key'] === this.$route.params.id)
+      }
+      console.log('c')
+      return JSON.parse(localStorage.getItem('cats')).find(cat => cat['.key'] === this.$route.params.id)
+    }
+  },
   data () {
     return {
-      'pictures': data.pictures
+      cat: this.getCat()
     }
   }
 }
