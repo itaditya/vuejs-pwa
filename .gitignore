@@ -13,5 +13,4 @@ config/
 *.ntvs*
 *.njsproj
 *.sln
-*.sublime-project
-*.subime-workspace
+*.sublime-*
